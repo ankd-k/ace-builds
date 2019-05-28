@@ -3,7 +3,7 @@ ace.define("ace/theme/origin",["require","exports","module","ace/lib/dom"], func
 exports.isDark = true;
 exports.cssClass = "ace-origin";
 exports.cssText = ".ace-origin .ace_gutter {\
-background: #2F3129;\
+background: rgba(0, 0, 0, 0);\
 color: #8F908A\
 }\
 .ace-origin .ace_print-margin {\
@@ -31,7 +31,7 @@ margin: -1px 0 0 -1px;\
 border: 1px solid #49483E\
 }\
 .ace-origin .ace_marker-layer .ace_active-line {\
-background: #202020\
+background: rgba(0, 0, 0, 0.2);\
 }\
 .ace-origin .ace_gutter-active-line {\
 background-color: #272727\
