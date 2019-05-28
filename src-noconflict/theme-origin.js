@@ -34,7 +34,7 @@ border: 1px solid #49483E\
 background: rgba(0, 0, 0, 0.2);\
 }\
 .ace-origin .ace_gutter-active-line {\
-background-color: #272727\
+background-color: rgba(0, 0, 0, 0.2);\
 }\
 .ace-origin .ace_marker-layer .ace_selected-word {\
 border: 1px solid #49483E\
@@ -46,7 +46,7 @@ color: #52524d\
 .ace-origin .ace_keyword,\
 .ace-origin .ace_meta.ace_tag,\
 .ace-origin .ace_storage {\
-color: #F92672\
+color: #FF2272\
 }\
 .ace-origin .ace_punctuation,\
 .ace-origin .ace_punctuation.ace_tag {\
@@ -56,19 +56,19 @@ color: #fff\
 .ace-origin .ace_constant.ace_language,\
 .ace-origin .ace_constant.ace_numeric,\
 .ace-origin .ace_constant.ace_other {\
-color: #AE81FF\
+color: #7F77FF\
 }\
 .ace-origin .ace_invalid {\
 color: #F8F8F0;\
-background-color: #F92672\
+background-color: #FF2272\
 }\
 .ace-origin .ace_invalid.ace_deprecated {\
 color: #F8F8F0;\
-background-color: #AE81FF\
+background-color: #7F77FF\
 }\
 .ace-origin .ace_support.ace_constant,\
 .ace-origin .ace_support.ace_function {\
-color: #66D9EF\
+color: #00D6FF\
 }\
 .ace-origin .ace_fold {\
 background-color: #A6E22E;\
@@ -78,7 +78,7 @@ border-color: #F8F8F2\
 .ace-origin .ace_support.ace_class,\
 .ace-origin .ace_support.ace_type {\
 font-style: italic;\
-color: #66D9EF\
+color: #00D6FF\
 }\
 .ace-origin .ace_entity.ace_name.ace_function,\
 .ace-origin .ace_entity.ace_other,\
