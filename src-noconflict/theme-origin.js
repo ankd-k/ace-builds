@@ -18,7 +18,7 @@ color: #F8F8F2\
 color: #F8F8F0\
 }\
 .ace-origin .ace_marker-layer .ace_selection {\
-background: #49483E\
+background: rgba(73, 72, 62, 0.5)\
 }\
 .ace-origin.ace_multiselect .ace_selection.ace_start {\
 box-shadow: 0 0 3px 0px #272822;\
